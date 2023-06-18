@@ -17,11 +17,10 @@ In this tutorial you will learn about an email regex. The turtorial breaks the r
   - [The Challenge:](#the-challenge)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
+  - [Screenshots.](#screenshots)
   - [Usage Instructions](#usage-instructions)
   - [Repository Link:](#repository-link)
   - [Deployed Gist Link:](#deployed-gist-link)
-  - [Screenshots.](#screenshots)
-    - [Figure's Regex GitHub Gist](#figures-regex-github-gist)
   - [Installation Process](#installation-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -59,6 +58,12 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
+## Screenshots
+![Screenshot 1](./images/gitgithub-1.png)
+
+![Screenshot 2](./images/gitgithub-2.png)
+
+![Screenshot 3](./images/gitgithub-3.png)
 
 ## Usage Instructions
 
